@@ -1,0 +1,15 @@
+{
+    "jwtPrivateKey" : "",
+    "DB_HOST" : "",
+    "DB_USER" : "",
+    "DB_PASS" : "",
+    "smtpOptions" : {
+        "host": "",
+        "port": "",
+        "secure": "", 
+        "auth": {
+            "user": "",
+            "pass": ""
+        }
+    }
+}

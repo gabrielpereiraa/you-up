@@ -1,0 +1,32 @@
+{
+  "name": "youup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "jest --verbose --forceExit --watchAll --maxWorkers=1 -t ''"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "config": "^3.3.6",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "joi": "^17.4.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.33",
+    "mongoose": "^5.13.2",
+    "mongoose-paginate": "^5.0.3",
+    "nodemailer": "^6.6.3",
+    "sinon": "^11.1.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.24",
+    "jest": "^27.0.6",
+    "supertest": "^6.1.3"
+  }
+}

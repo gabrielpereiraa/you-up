@@ -1,0 +1,15 @@
+{
+    "jwtPrivateKey" : "jwtyouup",
+    "DB_HOST" : "mongodb://localhost/youup_test",
+    "DB_USER" : "",
+    "DB_PASS" : "",
+    "smtpOptions" : {
+        "host": "",
+        "port": "",
+        "secure": "", 
+        "auth": {
+            "user": "",
+            "pass": ""
+        }
+    }
+}
