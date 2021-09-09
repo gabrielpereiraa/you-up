@@ -1,9 +1,9 @@
 <br />
 <br/>
 <p align="center" id="nome-do-projeto">
-  <h3 align="center">You UP</h3>
+  <h3 align="center">YouUP</h3>
   <p align="center">
-    YouUP é um aplicativo simples, que te ajuda a gerenciar seu progresso e suas metas em sua vida fitness.
+    YouUP é um aplicativo simples, que te ajuda a gerenciar o seu progresso e suas metas em sua vida fitness.
     <br />
     <a href="https://github.com/gabrielpereiraa/basic-login"><strong>Documentação »</strong></a>
     <br />
